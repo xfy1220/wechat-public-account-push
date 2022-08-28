@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx8f704ab809909cd2",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "62f39b0489fdf834a4d85fb5396d38a2",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "YmNYwbMUXOsJEDU-In1zkxr525DPsr2emsybap3D0II",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["oJaLp5_addfCYRhZQJ0Jm0jXZY0w"],
      
     /**
      * 信息配置
@@ -19,31 +19,30 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "河南",
     // 所在城市
-    CITY: "惠州",
+    CITY: "驻马店",
 
     /** 生日相关 */
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
       {"name": "老婆", "year": "1993", "date": "12-27"},
-      {"name": "家公", "year": "1993", "date": "08-09"},
+      {"name": "家公", "year": "1996", "date": "12-20"},
     ],
 
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
-    // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    LOVE_DATE: "2021-10-23",
+
 
 
     /** 好文节选 */
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "https://v2.alapi.cn/api/mryw/random"
 
 
     }
