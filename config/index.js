@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "62f39b0489fdf834a4d85fb5396d38a2",
     // 模板消息id
-    TEMPLATE_ID: "itM08SOXs4dznS8TjoDCsoe8p1G9zh8GEV28YQ2WW_g",
+    TEMPLATE_ID: "16E9uh61LdqNZiglHRncq_65JbXaT96WF_uiQ6buZ1k",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["oJaLp54K2FYj1TPEh_mWEzLp485c"],
      
@@ -42,7 +42,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "https://v2.alapi.cn/api/mryw/random"
+    LITERARY_PREFERENCE: ""
 
 
     }
